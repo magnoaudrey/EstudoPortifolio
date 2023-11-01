@@ -12,11 +12,13 @@
   --surface-color-hover: rgba(0, 0, 0, 0.726);
   --highlight-color: rgba(255, 255, 255, 0.2);
   --switch-bg-url: url(./assets/moon-stars.svg);
+  height: 100%;
 }
 
 body {
-  background: url(https://source.unsplash.com/random) no-repeat top center;
-  background-size: 100rem;
+  background: url(https://source.unsplash.com/random) no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 body * {
