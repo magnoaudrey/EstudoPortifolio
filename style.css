@@ -37,7 +37,7 @@ a {
 
 #profile {
   text-align: center;
-  padding: 24px;
+  padding: 10px;
   width: 100%;
 }
 
@@ -54,8 +54,8 @@ a {
   border-radius: 50%;
   position: absolute;
   z-index: -1;
-  top: 74px;
-  left: calc(50% - 93px);
+  top: 60.5px;
+  left: calc(50% - 93.5px);
 
   animation-name: girar;
   animation-duration: 1s;
